@@ -1,5 +1,5 @@
 # EvolutionAlgorithmForTravellingSalesmanProblem
-Python, one assignment of UiO inf4490
+Python
 
 Solve travelling salesman problem for travelling around a few european cities in different ways
 exhaustive.py solve it by using exhaustive search.
